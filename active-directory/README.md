@@ -1,3 +1,23 @@
+# Windows Server — Active Directory et DNS
+
+## Présentation
+
+Je déploie un environnement Windows Server avec un domaine
+Active Directory et un poste client Windows 11.
+
+Je prépare les machines virtuelles, configure leur réseau
+et mets en place les services nécessaires au domaine.
+
+Cette installation sert ensuite de base aux configurations
+des utilisateurs, des groupes, des GPO et des partages.
+
+## Environnement technique
+
+| Élément | Configuration |
+|---|---|
+| Hyperviseur | VMware Workstation |
+| Serveur | Windows Server 2025 avec interface graphique |
+| Nom du serveur | `SRV-WIN-EBS-01` |
 | Poste client | Windows 11 Pro |
 | Domaine Active Directory | `TSSR-EBS.LAB` |
 | Réseau virtuel | LAN Segment `LAB-TSSR-EBS` |
