@@ -34,7 +34,7 @@ dans chaque compte rendu pour distinguer les différentes étapes.
 | [GPO](gpo/README.md) | Configuration des stratégies, ciblage et vérification sur les postes clients |
 | [Partages et permissions](partages-ntfs/README.md) | Partages SMB, permissions NTFS et organisation des accès avec AGDLP |
 | [Stockage et quotas](stockage-quotas/README.md) | Quotas FSRM par dossier, tests de limitation et découverte des quotas NTFS avec fsutil |
-| Server Core | Configuration et administration en PowerShell |
+| [Server Core](server-core/README.md) | Configuration en PowerShell et administration distante avec Windows Admin Center |
 | Second contrôleur de domaine | Ajout d’un contrôleur et vérification de la réplication |
 | Rôles FSMO | Identification et transfert des rôles |
 | DHCP | Configuration et basculement entre deux serveurs |
