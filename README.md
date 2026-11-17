@@ -35,9 +35,9 @@ dans chaque compte rendu pour distinguer les différentes étapes.
 | [Partages et permissions](partages-ntfs/README.md) | Partages SMB, permissions NTFS et organisation des accès avec AGDLP |
 | [Stockage et quotas](stockage-quotas/README.md) | Quotas FSRM par dossier, tests de limitation et découverte des quotas NTFS avec fsutil |
 | [Server Core](server-core/README.md) | Configuration en PowerShell et administration distante avec Windows Admin Center |
-| Second contrôleur de domaine | Ajout d’un contrôleur et vérification de la réplication |
-| Rôles FSMO | Identification et transfert des rôles |
-| DHCP | Configuration et basculement entre deux serveurs |
+| [Second contrôleur de domaine](second-controleur-domaine/README.md) | Promotion de Server Core, réplication AD et redondance DNS |
+| [Rôles FSMO](roles-fsmo/README.md) | Identification et transfert des rôles avec les consoles graphiques et PowerShell |
+| [DHCP](dhcp-failover/README.md) | Configuration du basculement, test du secours et retour à la normale |
 
 Les comptes rendus sont ajoutés progressivement.
 
