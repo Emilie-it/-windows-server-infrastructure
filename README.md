@@ -33,7 +33,7 @@ dans chaque compte rendu pour distinguer les différentes étapes.
 | [Active Directory et DNS](active-directory/README.md) | Déploiement du domaine et jonction d’un poste Windows 11 |
 | [GPO](gpo/README.md) | Configuration des stratégies, ciblage et vérification sur les postes clients |
 | [Partages et permissions](partages-ntfs/README.md) | Partages SMB, permissions NTFS et organisation des accès avec AGDLP |
-| Stockage et quotas | Manipulations avec `fsutil` et gestion des quotas |
+| [Stockage et quotas](stockage-quotas/README.md) | Quotas FSRM par dossier, tests de limitation et découverte des quotas NTFS avec fsutil |
 | Server Core | Configuration et administration en PowerShell |
 | Second contrôleur de domaine | Ajout d’un contrôleur et vérification de la réplication |
 | Rôles FSMO | Identification et transfert des rôles |
