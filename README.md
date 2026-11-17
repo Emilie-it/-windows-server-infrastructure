@@ -30,7 +30,7 @@ dans chaque compte rendu pour distinguer les différentes étapes.
 
 | Projet | Contenu |
 |---|---|
-| Active Directory et DNS | Installation du domaine et jonction d’un poste Windows |
+| [Active Directory et DNS](active-directory/README.md) | Déploiement du domaine et jonction d’un poste Windows 11 |
 | GPO | Configuration des stratégies et vérification de leur application |
 | Partages et permissions | Partages SMB, droits NTFS et méthode AGDLP |
 | Stockage et quotas | Manipulations avec `fsutil` et gestion des quotas |
